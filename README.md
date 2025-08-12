@@ -1,4 +1,4 @@
-#  Kai - Tecla AI
+#  Kai - TeclaAI
 
 > **Expansor de texto com IA** - Digite inteligente, trabalhe mais rápido!
 
